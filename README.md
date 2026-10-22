@@ -1,7 +1,7 @@
 # 100demons.github.io
 
 Short addresses for the Model:Cycles project, which lives in
-[100demons/model27](https://github.com/100demons/model27):
+[100demons/model27](https://github.com/100demons/cycles):
 
 - <https://100demons.github.io/flasher/> → the web flasher
 - <https://100demons.github.io/guide/> → the user guide
